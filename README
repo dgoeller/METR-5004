@@ -6,7 +6,8 @@ xyz.xlsx
 	run for coordinates in the x, y, and z directions.
 
 prs.mat
-	This is a .mat file for a 4D array of pressure data output from the same	CM1 model run as produced the x, y, and z data above.
+	This is a .mat file for a 4D array of pressure data output from the same
+	CM1 model run as produced the x, y, and z data above.
 
 th.mat
 	This is a .mat file for a 4D array of potential temperature data output
