@@ -1,0 +1,15 @@
+The files in this directory are related to classwork for METR 5004: Fundamentals of Atmospheric Science at the University of Oklahoma School of Meteorology.
+
+-------------------------
+xyz.xlsx
+	This is an Excel spreadsheet containing data selected from a CM1 model
+	run for coordinates in the x, y, and z directions.
+
+prs.mat
+	This is a .mat file for a 4D array of pressure data output from the same	CM1 model run as produced the x, y, and z data above.
+
+th.mat
+	This is a .mat file for a 4D array of potential temperature data output
+	from the same CM1 model run as produced the data above.
+
+-------------------------
